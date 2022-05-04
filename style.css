@@ -164,7 +164,7 @@ color: #ffffff;
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: #ffffff;
 }
 
 .d-bloc .a-btn:hover,
@@ -181,7 +181,7 @@ color: #ffffff;
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: #ffffff;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -835,11 +835,11 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #f67633;
+    background: #D10054;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #f64533!important;
+    background: #AD0045!important;
     color: #FFFFFF!important;
 }
 
