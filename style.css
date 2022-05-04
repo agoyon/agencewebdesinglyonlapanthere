@@ -29,12 +29,8 @@ a:hover {
 
 .bloc {
     width: 100%;
-    clear: both;
     background: 50% 50% no-repeat;
     padding: 0 50px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     position: relative;
 }
@@ -88,7 +84,7 @@ font-style: italic;
 
 .text-center-size {
 font-size: 15px;
-color; #ffffff;
+color: #ffffff;
 }
 
 .bg-center,
@@ -308,7 +304,7 @@ color; #ffffff;
 }
 
 .row-no-gutters {
-    widht: 500px;
+    width: 500px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -748,7 +744,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
-    font-color: #ffffff;
+    color: #ffffff;
 }
 
 h3 {
@@ -783,7 +779,7 @@ h4 {
 }
 
 .blacktext {
-    font-color: #000000 !important;
+    color: #000000 !important;
     font-size: 14px;
 }
 
@@ -801,9 +797,9 @@ h4 {
 }
 
 .black-background {
-    background-color: #f67633;
+    background-color: #000;
     max-width: 600px;
-    widht:  100%;
+    width:  100%;
     padding: 40px 40px 40px 40px;
 }
 
@@ -822,6 +818,10 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: #f67633;
+}
+
+.bgc-atomic-black {
+    background-color: #000;
 }
 
 .tc-white {
