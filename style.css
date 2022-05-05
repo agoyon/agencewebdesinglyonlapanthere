@@ -691,6 +691,12 @@ a {
     color: #575757!important;
 }
 
+.lienfooter {
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #ffffff!important;
+}
+
 .container {
     max-width: 1000px;
 }
