@@ -18,6 +18,12 @@ a:hover {
     cursor: pointer;
 }
 
+*:focus{
+    outline-color: orange !important;
+    outline-style: dotted !important;
+}
+
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -166,6 +172,7 @@ a:hover {
 .d-bloc p a {
     color: #ffffff;
 }
+
 
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
